@@ -1,6 +1,7 @@
-#Halo namaku M. Nur Syamsi Maulidi  
+# Halo semuanya!!!  
+namaku M. Nur Syamsi Maulidi  
 aku suka makan ayam goreng  
-  
+    
 <p align="left">
 <a href="https://github.com/penuliscode">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
