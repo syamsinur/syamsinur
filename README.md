@@ -1,6 +1,6 @@
 # Halo semuanya!!!  
 namaku M. Nur Syamsi Maulidi  
-aku suka makan ayam goreng  
+aku suka makan ayam goreng. 
     
 <p align="left">
 <a href="https://github.com/penuliscode">
